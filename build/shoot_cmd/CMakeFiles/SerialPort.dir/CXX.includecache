@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abot/abot_ws/src/shoot_cmd/include/shoot_cmd/SerialPort.h
+
+/home/abot/abot_ws/src/shoot_cmd/src/SerialPort.cpp
+../include/shoot_cmd/SerialPort.h
+/home/abot/abot_ws/src/shoot_cmd/include/shoot_cmd/SerialPort.h
+iostream
+-
+sys/file.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+termios.h
+-
+errno.h
+-
+

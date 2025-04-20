@@ -1,0 +1,8 @@
+prefix=/home/abot/abot_ws/install
+
+Name: face_pkg
+Description: Description of face_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

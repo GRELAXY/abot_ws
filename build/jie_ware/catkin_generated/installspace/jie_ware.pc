@@ -1,0 +1,8 @@
+prefix=/home/abot/abot_ws/install
+
+Name: jie_ware
+Description: Description of jie_ware
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: cv_bridge geometry_msgs move_base_msgs nav_msgs roscpp rospy sensor_msgs std_msgs tf

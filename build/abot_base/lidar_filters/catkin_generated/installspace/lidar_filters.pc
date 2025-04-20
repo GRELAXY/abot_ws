@@ -1,0 +1,8 @@
+prefix=/home/abot/abot_ws/install
+
+Name: lidar_filters
+Description: Description of lidar_filters
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

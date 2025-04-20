@@ -1,0 +1,8 @@
+prefix=/home/abot/abot_ws/install
+
+Name: cam_track
+Description: Description of cam_track
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lcam_track
+Requires: actionlib_msgs geometry_msgs std_msgs tf tf2_ros

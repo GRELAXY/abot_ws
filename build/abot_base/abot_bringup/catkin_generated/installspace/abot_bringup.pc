@@ -1,0 +1,8 @@
+prefix=/home/abot/abot_ws/install
+
+Name: abot_bringup
+Description: Description of abot_bringup
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

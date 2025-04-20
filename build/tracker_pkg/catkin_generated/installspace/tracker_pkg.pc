@@ -1,0 +1,8 @@
+prefix=/home/abot/abot_ws/install
+
+Name: tracker_pkg
+Description: Description of tracker_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

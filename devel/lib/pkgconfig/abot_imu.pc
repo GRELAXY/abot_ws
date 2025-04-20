@@ -1,0 +1,8 @@
+prefix=/home/abot/abot_ws/devel
+
+Name: abot_imu
+Description: Description of abot_imu
+Version: 0.0.0
+Cflags: -I/home/abot/abot_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

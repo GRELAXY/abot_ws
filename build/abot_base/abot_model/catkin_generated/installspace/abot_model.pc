@@ -1,0 +1,8 @@
+prefix=/home/abot/abot_ws/install
+
+Name: abot_model
+Description: Description of abot_model
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

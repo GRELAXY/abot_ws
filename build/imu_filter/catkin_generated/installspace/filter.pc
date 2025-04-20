@@ -1,0 +1,8 @@
+prefix=/home/abot/abot_ws/install
+
+Name: filter
+Description: Description of filter
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

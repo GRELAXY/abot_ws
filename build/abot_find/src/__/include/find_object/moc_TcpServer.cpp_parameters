@@ -1,0 +1,12 @@
+-I/home/abot/abot_ws/devel/include
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DPROJECT_PREFIX="find_object"
+-DPROJECT_VERSION="0.6.4"
+-DPROJECT_NAME="find_object_2d"
+-DQT_NO_KEYWORDS
+-DROS_PACKAGE_NAME="find_object_2d"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/abot/abot_ws/build/abot_find/src/__/include/find_object/moc_TcpServer.cpp
+/home/abot/abot_ws/src/abot_find/include/find_object/TcpServer.h

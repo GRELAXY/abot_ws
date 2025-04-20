@@ -1,0 +1,8 @@
+prefix=/home/abot/abot_ws/install
+
+Name: shoot_cmd
+Description: Description of shoot_cmd
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs
